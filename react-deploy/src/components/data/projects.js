@@ -4,7 +4,7 @@ export const ProjectData = [
         title: "TrackExpense",
         desc: "React Web Application utilizing multiple components and events to effectively track monthly and yearly expenses.",
         tags: ["ReactJs", "React-Router", "HTML", "CSS", "Javascript"],
-        // demo: "https://clubhouse-web-app.webapp",
+        demo: "https://listexpense.netlify.app/",
         github: "https://github.com/clubhouse-web-app",
         image: require("../../assets/images/projects/Money stress-bro.svg").default,
     },
