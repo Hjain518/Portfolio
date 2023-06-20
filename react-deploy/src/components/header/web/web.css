@@ -16,6 +16,9 @@
     align-items: center;
     color: black;
 }
+.web-option :hover{
+    color:  #ff4d4d;
+}
 
 .option-icon {
     display: flex;

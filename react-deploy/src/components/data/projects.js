@@ -5,8 +5,8 @@ export const ProjectData = [
         desc: "React Web Application utilizing multiple components and events to effectively track monthly and yearly expenses.",
         tags: ["ReactJs", "React-Router", "HTML", "CSS", "Javascript"],
         demo: "https://listexpense.netlify.app/",
-        github: "https://github.com/clubhouse-web-app",
-        image: require("../../assets/images/projects/Money stress-bro.svg").default,
+        github: "https://github.com/Hjain518/Expense_List",
+        image: require("../../assets/images/projects/Money stress-pana.svg").default,
     },
     {
         id: 2,
@@ -15,7 +15,7 @@ export const ProjectData = [
         tags: ["Figma"],
         demo: "https://www.behance.net/gallery/172987099/Client-Tracker-App-for-Trainers",
         // github: "https://github.com/clubhouse-web-app",
-        image: require("../../assets/images/projects/Design team-bro.svg").default,
+        image: require("../../assets/images/projects/Design team-pana.svg").default,
     },
     {
         id: 3,
@@ -23,8 +23,8 @@ export const ProjectData = [
         desc: "Designed Use Case diagram, DFD, and Relational Model and developed a feature-rich web app with key features including product/search/order capabilities, chatbox, bill-book, cart, transaction history, and stock updates.",
         tags: ["Web Development", " Django", "MySQL"],
         // demo: "https://linkedin-web-app.webapp",
-        github: "https://github.com/linkedin-web-app",
-        image: require("../../assets/images/projects/website-setup-project-2.svg").default,
+        github: "https://github.com/Hjain518/B_Square",
+        image: require("../../assets/images/projects/Website setup-amico.svg").default,
     },    
     {
         id: 4,
@@ -33,6 +33,6 @@ export const ProjectData = [
         tags: ["Machine Learning", "Python"],
         // demo: "https://linkedin-web-app.webapp",
         github: "https://github.com/linkedin-web-app",
-        image: require("../../assets/images/projects/Thesis-amico.svg").default,
+        image: require("../../assets/images/projects/Thesis-amico (1).svg").default,
     },        
 ]

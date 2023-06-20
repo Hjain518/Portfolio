@@ -11,8 +11,10 @@
 }
 
 .skills-section-title {
+    margin-top: 10px;
     font-size: 24px;
     font-weight: 600;
+    /* color: ; */
 }
 
 .skills-list {
