@@ -8,7 +8,7 @@ function Header() {
     return (
         <div className="header">
          <div className="logo">
-         👋Hello, Welcome !!
+          Portfolio
          </div>
          <div className="menu">
            <div className="web-menu">

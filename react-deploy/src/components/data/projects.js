@@ -1,7 +1,7 @@
 export const ProjectData = [
     {
         id: 1,
-        title: "TrackExpense",
+        title: "Track Expense",
         desc: "React Web Application utilizing multiple components and events to effectively track monthly and yearly expenses.",
         tags: ["ReactJs", "React-Router", "HTML", "CSS", "Javascript"],
         demo: "https://listexpense.netlify.app/",
@@ -13,7 +13,7 @@ export const ProjectData = [
         title: "Client List Tracker ( Case Study )",
         desc: "Complete Case Study of an application ( UI/ UX Design )",
         tags: ["Figma"],
-        demo: "https://www.behance.net/gallery/172987099/Client-Tracker-App-for-Trainers",
+        demo: "https://www.behance.net/gallery/173850535/Client-Tracker-App-for-Trainers",
         // github: "https://github.com/clubhouse-web-app",
         image: require("../../assets/images/projects/Design team-pana.svg").default,
     },

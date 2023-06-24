@@ -14,13 +14,19 @@ function Contact() {
           <div className="tag">
             jainharshit518@gmail.com
           </div>
+          <div className="download-resume">
+          <a href={require("../../../assets/pdf/Resume_Hj.pdf").default}>
+            <i style={{ padding: '0.3rem' }} class="fi-rr-cloud-download download-icon "></i>
+            Resume
+          </a>
         </div>
-        <div className="download-resume">
+        </div>
+        {/* <div className="download-resume">
           <a href={require("../../../assets/pdf/Resume_Hj.pdf").default}>
             <i style={{ padding: '0.5rem' }} class="fi-rr-cloud-download download-icon "></i>
             Resume
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   )
